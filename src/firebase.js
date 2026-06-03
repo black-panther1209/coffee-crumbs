@@ -1,13 +1,14 @@
 import { initializeApp } from "firebase/app";
 import { getFirestore } from "firebase/firestore";
 import { getAuth } from "firebase/auth";
+
 const firebaseConfig = {
-  apiKey: "AIzaSyDxOHO9o0pJHxkEQoJw9xpSVPhZt379bL8",
-  authDomain: "coffee-crumbs.firebaseapp.com",
-  projectId: "coffee-crumbs",
-  storageBucket: "coffee-crumbs.firebasestorage.app",
-  messagingSenderId: "263404102660",
-  appId: "1:263404102660:web:17c4a1f18dfb610ffc4151",
+apiKey: import.meta.env.VITE_FIREBASE_API_KEY,
+authDomain: import.meta.env.VITE_FIREBASE_AUTH_DOMAIN,
+projectId: import.meta.env.VITE_FIREBASE_PROJECT_ID,
+storageBucket: import.meta.env.VITE_FIREBASE_STORAGE_BUCKET,
+messagingSenderId: import.meta.env.VITE_FIREBASE_MESSAGING_SENDER_ID,
+appId: import.meta.env.VITE_FIREBASE_APP_ID,
 };
 
 const app = initializeApp(firebaseConfig);
