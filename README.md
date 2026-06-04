@@ -61,20 +61,49 @@ A modern and responsive coffee shop web application built using **React, Vite, T
 ---
 
 ## 📸 Screenshots
-Home Page
-About Section
-Menu Categories
-Menu Items
-Gallery
-Table Reservation
-Contact Form
-Review Submission
-Customer Testimonials
-Admin Login
-Dashboard Overview
-Recent Orders
-Reservations Management
-Analytics Dashboard
+
+
+### Home Page
+![Home Page](screenshots/home.png)
+
+### About Section
+![About Section](screenshots/about.png)
+
+### Menu Categories
+![Menu Categories](screenshots/menu.png)
+
+### Menu Items
+![Menu Items](screenshots/menulist.png)
+
+### Gallery
+![Gallery](screenshots/gallery.png)
+
+### Table Reservation
+![Table Reservation](screenshots/booking.png)
+
+### Contact Form
+![Contact Form](screenshots/contact.png)
+
+### Review Submission
+![Review Submission](screenshots/review-page.png)
+
+### Customer Testimonials
+![Customer Testimonials](screenshots/testimonials.png)
+
+### Admin Login
+![Admin Login](screenshots/admin-login.png)
+
+### Dashboard Overview
+![Dashboard Overview](screenshots/dashboard.png)
+
+### Recent Orders
+![Recent Orders](screenshots/recent-orders.png)
+
+### Reservations Management
+![Reservations Management](screenshots/reservations.png)
+
+### Analytics Dashboard
+![Analytics Dashboard](screenshots/analytics.png)
 
 ---
 
