@@ -64,46 +64,46 @@ A modern and responsive coffee shop web application built using **React, Vite, T
 
 
 ### Home Page
-![Home Page](screenshots/home.png)
+![Home Page](screenshots/home.png.png)
 
 ### About Section
-![About Section](screenshots/about.png)
+![About Section](screenshots/about.png.png)
 
 ### Menu Categories
-![Menu Categories](screenshots/menu.png)
+![Menu Categories](screenshots/menu.png.png)
 
 ### Menu Items
-![Menu Items](screenshots/menulist.png)
+![Menu Items](screenshots/menulist.png.png)
 
 ### Gallery
-![Gallery](screenshots/gallery.png)
+![Gallery](screenshots/gallery.png.png)
 
 ### Table Reservation
-![Table Reservation](screenshots/booking.png)
+![Table Reservation](screenshots/booking.png.png)
 
 ### Contact Form
-![Contact Form](screenshots/contact.png)
+![Contact Form](screenshots/contact.png.png)
 
 ### Review Submission
-![Review Submission](screenshots/review-page.png)
+![Review Submission](screenshots/review-page.png.png)
 
 ### Customer Testimonials
-![Customer Testimonials](screenshots/testimonials.png)
+![Customer Testimonials](screenshots/testimonials.png.png)
 
 ### Admin Login
-![Admin Login](screenshots/admin-login.png)
+![Admin Login](screenshots/admin-login.png.png)
 
 ### Dashboard Overview
-![Dashboard Overview](screenshots/dashboard.png)
+![Dashboard Overview](screenshots/dashboard.png.png)
 
 ### Recent Orders
-![Recent Orders](screenshots/recent-orders.png)
+![Recent Orders](screenshots/recent-orders.png.png)
 
 ### Reservations Management
-![Reservations Management](screenshots/reservations.png)
+![Reservations Management](screenshots/reservations.png.png)
 
 ### Analytics Dashboard
-![Analytics Dashboard](screenshots/analytics.png)
+![Analytics Dashboard](screenshots/analytics.png.png)
 
 ---
 
